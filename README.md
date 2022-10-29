@@ -9,6 +9,6 @@ https://www.youtube.com/watch?v=ePxrVU4M9uA
 If there are any *B*O*N*U*S* *F*E*A*T*U*R*E*S or whatever that I may have fogotten about, please tell me and I will try to fix them as soon as I can
 
 ## KNOWN ISSUES:
-1 - The win backgrounds don't tell the truth: you click to close, not press enter.
+1 - The win backgrounds don't tell the truth: you click to close, not press enter. (WILL BE FIXED SOON)
 
 # Thanks!
