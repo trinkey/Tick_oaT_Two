@@ -11,5 +11,4 @@ If there are any *B*O*N*U*S* *F*E*A*T*U*R*E*S or whatever that I may have fogott
 ## KNOWN ISSUES:
 1 - The win backgrounds don't tell the truth: you click to close, not press enter.
 
-
-#Thanks!
+# Thanks!
