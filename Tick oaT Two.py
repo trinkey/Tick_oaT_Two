@@ -115,7 +115,7 @@ def clickEvent(x, y):
     else:
         ycor = -1
 
-    if xcor + 1 and ycor + 1 and (board[xcor][ycor] == 0 or board[xcor][ycor] == 1 or board[xcor][ycor] == 2) and not (xcor == previous[0] and ycor == previous[1]):
+    if xcor + 1 and ycor + 1 and (board[xcor][ycor] == 0 or board[xcor][ycor] == 1 or board[xcor][ycor] == 2) and not (xcor == previous[0] and ycor == previous[1]) and board[xcor][ycor] != turn:
         # Update tile elements
         tiles[ycor][xcor].changeIcon(turn)
 
